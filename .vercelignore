@@ -1,0 +1,47 @@
+# Development files
+*.log
+*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+nul
+
+# Test files
+coverage/
+.nyc_output/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Documentation
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore
+
+# Build artifacts (will be generated)
+dist/
+build/
+
+# Dependencies (will be installed)
+node_modules/
+
+# Misc
+*.bak
+*.tmp
+
