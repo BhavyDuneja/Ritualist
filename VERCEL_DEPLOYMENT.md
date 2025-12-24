@@ -78,3 +78,4 @@ If your app uses environment variables (like `GEMINI_API_KEY`), add them in:
 - Use Vercel's environment variables for secrets
 - `.vercelignore` ensures sensitive files aren't included in builds
 
+
